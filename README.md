@@ -8,7 +8,7 @@ Ana Discord Hesabım: SydraBusiness.#8632
 
 Bot Yazarken Kullandığım Hesabım: ' Sydra#3186
 
-İçindekiler: Angel (1,2,3,4,5), Backup, Moderation, Welcome.
+İçindekiler: Angel(Guard) (1,2,3,4,5), Backup, Moderation, Welcome.
 
 
 İyi Günler!
