@@ -4,9 +4,8 @@ Merhabalar, Bugünden yaklaşık 3 hafta önce bütün discord public botların�
  
 Sağlıcakla ve beklemede kalın. Star ve fork atmayı unutmayın. ^^
 
-Ana Discord Hesabım: SydraBusiness.#8632 
 
-Bot Yazarken Kullandığım Hesabım: ' Sydra#3186
+İletişim için discord hesabım: ' Sydra#3186
 
 İçindekiler: Angel(Guard) (1,2,3,4,5), Backup(Database),(Calm Down), Moderation, Welcome.
 
