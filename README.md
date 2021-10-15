@@ -8,6 +8,4 @@ Sağlıcakla ve beklemede kalın. Star ve fork atmayı unutmayın. ^^
 
 İçindekiler: Angel(Guard) (1,2,3,4,5), Backup(Database),(Calm Down), Moderation, Welcome.
 
-Durum Güncellemesi : 09.10.2021 22:40 Botlar hazır test aşamasındayız :)
-
 İyi Günler!
