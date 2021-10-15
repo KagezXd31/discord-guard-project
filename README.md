@@ -4,11 +4,10 @@ Merhabalar, Bugünden yaklaşık 3 hafta önce bütün discord public botların�
  
 Sağlıcakla ve beklemede kalın. Star ve fork atmayı unutmayın. ^^
 
-
 İletişim için discord hesabım: ' Sydraxyz#3186
 
 İçindekiler: Angel(Guard) (1,2,3,4,5), Backup(Database),(Calm Down), Moderation, Welcome.
 
-Durum Güncellemesi : 09.10.2021 22:40 Botlar hazır test aşamasındayız :) 20 star olmadan paylaşmayacağım az paylaşın yahu
+Durum Güncellemesi : 09.10.2021 22:40 Botlar hazır test aşamasındayız :)
 
 İyi Günler!
