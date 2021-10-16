@@ -4,7 +4,7 @@ Merhabalar, Bugünden yaklaşık 3 hafta önce bütün discord public botların�
  
 Sağlıcakla ve beklemede kalın. Star ve fork atmayı unutmayın. ^^
 
-İletişim için discord hesabım: ' Sydraxyz#3186
+İletişim için discord hesabım profilimde yazıyor.
 
 İçindekiler: Angel(Guard) (1,2,3,4,5), Backup(Database),(Calm Down), Moderation, Welcome.
 
